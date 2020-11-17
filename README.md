@@ -30,3 +30,9 @@ programs.
         Writing files with open
         Loading data with Pandas
         Working with and Saving data with Pandas
+        
+## Module 5 - Working with Numpy Arrays
+
+        Numpy 1D Arrays
+        Numpy 2D Arrays
+

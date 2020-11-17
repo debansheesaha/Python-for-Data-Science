@@ -1,4 +1,4 @@
-# Python-for-Data-Science
+# Python-for-Data-Science by IBM
 
 This course covers the fundamental topics of the Python programming language.
 After completing all four modules, you’ll be able to start writing your very own Python
